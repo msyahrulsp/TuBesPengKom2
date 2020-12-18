@@ -1,5 +1,9 @@
 ## Analisis Data
 
+Used Library
+- pandas
+- matplotlib.pyplot
+
 ## Quick Installation
 - Harus udah ada [Git](https://git-scm.com/)
 - clone repo ini 
@@ -14,6 +18,13 @@ Open TuBes.ipynb
 Run all cells
 ```
 
-Used Library
-- pandas
-- matplotlib.pyplot
+Kalau udah ngedit kodenya
+- commit
+- push
+
+atau bisa via
+```
+git add .
+git commit -m "pesan"
+git push -u origin master
+```
