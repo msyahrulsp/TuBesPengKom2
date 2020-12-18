@@ -1,4 +1,4 @@
-**Analisis Data**
+## Analisis Data
 
 ## Quick Installation
 - Harus udah ada [Git](https://git-scm.com/)
@@ -6,7 +6,6 @@
 ```
 git clone https://github.com/msyahrulsp/TuBesPengKom2 pengkom2
 cd pengkom2
-git remote add origin https://github.com/msyahrulsp/TuBesPengKom2 pengkom2
 ```
 
 How to Start?
