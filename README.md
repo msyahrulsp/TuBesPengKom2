@@ -4,7 +4,7 @@ Used Library
 - pandas
 - matplotlib.pyplot
 
-## Quick Installation
+## Quick Setup
 - Harus udah ada [Git](https://git-scm.com/)
 - clone repo ini 
 ```
